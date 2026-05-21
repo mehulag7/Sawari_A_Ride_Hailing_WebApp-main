@@ -151,13 +151,6 @@ npm run dev
 
 ---
 
-## 🙌 Author
-
-**Kshithij Singhania**
-GitHub: [@KshithijSinghania](https://github.com/KshithijSinghania)
-
-**Praneet Masiya**
-GitHub: [@Praneet7871](https://github.com/Praneet7871)
 
 ---
 
